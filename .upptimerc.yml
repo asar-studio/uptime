@@ -20,3 +20,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/asar-studio/uptime
+
+workflowSchedule:
+  graphs: "0 * * * *"
+  responseTime: "0 * * * *"
+  staticSite: "0 * * * *"
+  summary: "0 * * * *"
+  updateTemplate: "0 * * * *"
+  updates: "0 * * * *"
+  uptime: "*/10 * * * *"
