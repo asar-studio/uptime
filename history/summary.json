@@ -1,6 +1,6 @@
 [
   {
-    "name": "РУСДРАМ",
+    "name": "RUSDRAM",
     "url": "https://rusdram.org/",
     "slug": "rusdram",
     "status": "up",
@@ -13,7 +13,7 @@
     "slug": "leon-hotel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1207
+    "time": 1206
   },
   {
     "name": "VISIT-ABKHAZIA",
@@ -21,6 +21,6 @@
     "slug": "visit-abkhazia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1098
+    "time": 1096
   }
 ]
