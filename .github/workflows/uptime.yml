@@ -10,7 +10,7 @@
 name: Uptime CI
 on:
   schedule:
-    - cron: "*/60 * * * *"
+    - cron: "* * * * *"
   workflow_dispatch:
 jobs:
   release:
