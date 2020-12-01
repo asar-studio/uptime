@@ -1,5 +1,5 @@
 owner: asar-studio
-repo: upptime
+repo: uptime
 
 sites:
   - name: РУСДРАМ
@@ -20,12 +20,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/asar-studio/uptime
-
-workflowSchedule:
-  graphs: "* * * * *"
-  responseTime: "* * * * *"
-  staticSite: "* * * * *"
-  summary: "* * * * *"
-  updateTemplate: "* * * * *"
-  updates: "* * * * *"
-  uptime: "* * * * *"
