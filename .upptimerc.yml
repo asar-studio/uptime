@@ -2,7 +2,7 @@ owner: asar-studio
 repo: uptime
 
 sites:
-  - name: РУСДРАМ
+  - name: RUSDRAM
     url: https://rusdram.org/
   - name: Leon Hotel
     url: https://leonhotel.net/
