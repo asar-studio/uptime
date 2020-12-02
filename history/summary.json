@@ -4,8 +4,8 @@
     "url": "https://rusdram.org/",
     "slug": "rusdram",
     "status": "up",
-    "uptime": "99.66%",
-    "time": 1137
+    "uptime": "99.78%",
+    "time": 1145
   },
   {
     "name": "Leon Hotel",
@@ -13,7 +13,7 @@
     "slug": "leon-hotel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1219
+    "time": 1217
   },
   {
     "name": "VISIT-ABKHAZIA",
@@ -21,6 +21,14 @@
     "slug": "visit-abkhazia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1103
+    "time": 1110
+  },
+  {
+    "name": "Dev Server",
+    "url": "http://asar.studio/login",
+    "slug": "dev-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 633
   }
 ]
