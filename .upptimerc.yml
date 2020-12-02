@@ -8,6 +8,9 @@ sites:
     url: https://leonhotel.net/
   - name: VISIT-ABKHAZIA
     url: https://visit-abkhazia.ru/
+  - name: Dev Server
+    url: http://asar.studio/login
+    
 
 status-website:
   baseUrl: /uptime
