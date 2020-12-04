@@ -9,7 +9,7 @@ sites:
   - name: VISIT-ABKHAZIA
     url: https://visit-abkhazia.ru/
   - name: Dev Server
-    url: http://asar.studio/login
+    url: https://rusdram-client.asar.studio/
     
 
 status-website:
