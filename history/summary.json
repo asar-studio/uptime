@@ -2,22 +2,27 @@
   {
     "name": "RUSDRAM",
     "url": "https://rusdram.org/",
+    "icon": "https://favicons.githubusercontent.com/rusdram.org",
     "slug": "rusdram",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1287,
-    "timeDay": 1668,
-    "timeWeek": 1287,
-    "timeMonth": 1287,
-    "timeYear": 1287
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1293,
+    "timeDay": 1538,
+    "timeWeek": 1293,
+    "timeMonth": 1293,
+    "timeYear": 1293,
+    "dailyMinutesDown": {
+      "2020-12-01": 5
+    }
   },
   {
     "name": "Leon Hotel",
     "url": "https://leonhotel.net/",
+    "icon": "https://favicons.githubusercontent.com/leonhotel.net",
     "slug": "leon-hotel",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +30,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1230,
-    "timeDay": 1255,
-    "timeWeek": 1230,
-    "timeMonth": 1230,
-    "timeYear": 1230
+    "time": 1228,
+    "timeDay": 1171,
+    "timeWeek": 1228,
+    "timeMonth": 1228,
+    "timeYear": 1228,
+    "dailyMinutesDown": {}
   },
   {
     "name": "VISIT-ABKHAZIA",
     "url": "https://visit-abkhazia.ru/",
+    "icon": "https://favicons.githubusercontent.com/visit-abkhazia.ru",
     "slug": "visit-abkhazia",
     "status": "up",
     "uptime": "100.00%",
@@ -41,26 +48,34 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1126,
-    "timeDay": 1189,
-    "timeWeek": 1126,
-    "timeMonth": 1126,
-    "timeYear": 1126
+    "time": 1127,
+    "timeDay": 1163,
+    "timeWeek": 1127,
+    "timeMonth": 1127,
+    "timeYear": 1127,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dev Server",
     "url": "https://rusdram-client.asar.studio/",
+    "icon": "https://favicons.githubusercontent.com/rusdram-client.asar.studio",
     "slug": "dev-server",
     "status": "down",
-    "uptime": "95.04%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "95.04%",
-    "uptimeMonth": "95.04%",
-    "uptimeYear": "95.04%",
+    "uptime": "75.39%",
+    "uptimeDay": "8.73%",
+    "uptimeWeek": "75.39%",
+    "uptimeMonth": "75.39%",
+    "uptimeYear": "75.39%",
     "time": 3681,
-    "timeDay": 6849,
+    "timeDay": 0,
     "timeWeek": 3681,
     "timeMonth": 3681,
-    "timeYear": 3681
+    "timeYear": 3681,
+    "dailyMinutesDown": {
+      "2020-12-07": 54,
+      "2020-12-06": 1260,
+      "2020-12-04": 124,
+      "2020-12-03": 126
+    }
   }
 ]
