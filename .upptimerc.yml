@@ -6,8 +6,8 @@ sites:
     url: https://rusdram.org/
   - name: Leon Hotel
     url: https://leonhotel.net/
-  - name: VISIT-ABKHAZIA
-    url: https://visit-abkhazia.ru/
+#   - name: VISIT-ABKHAZIA
+#     url: https://visit-abkhazia.ru/
   - name: Dev Server
     url: https://rusdram-client.asar.studio/
     
