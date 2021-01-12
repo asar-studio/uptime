@@ -6,10 +6,8 @@ sites:
     url: https://rusdram.org/
   - name: Leon Hotel
     url: https://leonhotel.net/
-#   - name: VISIT-ABKHAZIA
-#     url: https://visit-abkhazia.ru/
-  - name: GitLab
-    url: https://gitlab.asar.studio/
+  - name: VISIT-ABKHAZIA
+    url: https://visit-abkhazia.ru/
     
 
 status-website:
