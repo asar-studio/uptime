@@ -8,6 +8,8 @@ sites:
     url: https://leonhotel.net/
   - name: VISIT-ABKHAZIA
     url: https://visit-abkhazia.ru/
+  - name: GitLab
+    url: https://gitlab.asar.studio/
     
 
 status-website:
