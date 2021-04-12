@@ -9,7 +9,7 @@ sites:
   - name: VISIT-ABKHAZIA
     url: https://visit-abkhazia.ru/
   - name: GitLab
-    url: https://gitlab.asar.studio/
+    url: https://rusdram-client.asar.studio/
     
 
 status-website:
