@@ -10,6 +10,10 @@ sites:
     url: https://visit-abkhazia.ru/
   - name: GitLab
     url: https://rusdram-client-next.asu.asar.studio/
+  - name: Samshitovaya Roshcha
+    url: https://samshitovaya-roshcha.com/
+  - name: Amra Bank
+    url: https://amra-bank.com/
     
 
 status-website:
