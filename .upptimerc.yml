@@ -17,7 +17,7 @@ sites:
     
 
 status-website:
-#   apiBaseUrl: https://api.github.com
+  apiBaseUrl: https://api.github.com
   baseUrl: /uptime
 #   cname: asar-upptime.netlify.app
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
