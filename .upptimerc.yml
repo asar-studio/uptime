@@ -18,8 +18,8 @@ sites:
 
 status-website:
   apiBaseUrl: https://api.github.com
-#   baseUrl: /uptime
-  cname: asar-upptime.netlify.app
+  baseUrl: /uptime
+#   cname: asar-upptime.netlify.app
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
